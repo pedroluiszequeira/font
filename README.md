@@ -1,2 +1,1 @@
-# font
-practica
+este un proyecto de prueba sobre como crear y clonar un repositorio de githab a mi computadora
